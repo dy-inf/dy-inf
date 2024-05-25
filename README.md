@@ -1,1 +1,1 @@
-<p align=center>Hi, I'm Daniil Yan</p>
+<p align=center>Hi, I'm <p font-weight=bold>Daniil Yan</p></p>
